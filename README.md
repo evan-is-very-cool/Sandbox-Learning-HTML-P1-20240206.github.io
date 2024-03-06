@@ -8,7 +8,7 @@ CS 10 Lessons
 
 
 #Document Map
-* [x] Home pae
+* [x] Home page
 * [ ] TextExperimental.html
 * [ ] ViewPortON.html
 * [ ] MetaData.html
