@@ -14,4 +14,4 @@ CS 10 Lessons
 * [ ] MetaData.html
 * [ ] childtemplate.html
 * [ ] Images.html
-* [ ] Images.html
+
