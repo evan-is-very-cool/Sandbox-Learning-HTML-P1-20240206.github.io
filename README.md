@@ -9,9 +9,9 @@ CS 10 Lessons
 
 #Document Map
 * [x] Home page
-* [ ] TextExperimental.html
-* [ ] ViewPortON.html
-* [ ] MetaData.html
-* [ ] childtemplate.html
-* [ ] Images.html
+* [x] TextExperimental.html
+* [x] ViewPortON.html
+* [x] MetaData.html
+* [x] childtemplate.html
+* [ ] -Images.html-
 
